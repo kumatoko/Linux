@@ -30,14 +30,8 @@ sudo ufw status verbose
 
 
 You should see
+![screenshot](https://github.com/kumatoko/Linux/blob/main/Assets/SS1.png)
 
-```
-
-Status: active
-Logging: on (low)
-Default: deny (incoming), allow (outgoing), disabled (routed)
-
-```
 Just incase you don’t see that, or want to make double sure these are set, you can run
 
 ```
